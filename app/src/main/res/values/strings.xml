@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contador de Colonias</string>
+    <string name="title">CONTADOR DE COLÔNIAS</string>
+    <string name="test">5000</string>
+    <string name="increase">Aumentar</string>
+    <string name="decrease">Diminuir</string>
+    <string name="reset">Resetar</string>
+</resources>
